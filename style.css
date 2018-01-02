@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    color: #333;
+}
+
+h1, h2, h3 { line-height: 1.2; }
+h2 { font-size: 1.2em; }
+
+a, a:visited, a:active {
+    color: #c32148;
+    text-decoration: none;
+}
+a:hover { color: #851b38; }
+
+header {
+    background-color: #c32148;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+}
+header a, header a:visited, header a:active {
+    line-height: 0;
+    color: #fff;
+}
+header a:hover { color: #ccc; }
+
+.container {
+    width: 80vw;
+    max-width: 750px;
+    margin: auto;
+}
+.align-right { margin-left: auto; }
+
+.header-align {
+    display: flex;
+    align-items: center;
+}
+
+.main { padding-bottom: 5vh; }
+
+#logo-img {
+    padding: 15px 0;
+    width: 250px;
+    max-width: 15vw;
+    min-width: 200px;
+}
+
+ul.social-links {
+    list-style-type: none;
+    padding: 0;
+}
+ul.social-links li a {
+    display: block;
+    background-color: #2d2d2d;
+    width: 350px;
+    padding: 15px;
+    margin: auto auto 10px auto;
+    text-align: center;
+}
+ul.social-links li a:hover { background-color: #414141; }
+ul.social-links li a, ul.social-links li a:visited, ul.social-links li a:active { color: #ffffff; }
+ul.social-links li a:hover { color: #cccccc; }
