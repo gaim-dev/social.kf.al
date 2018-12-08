@@ -1,4 +1,5 @@
 const LINKS = [
+	['Weihnachtliche Müslimuffins', 'https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
