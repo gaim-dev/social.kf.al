@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>kochfokus.de Social Links</title>
     <link rel="stylesheet" href="/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,18 +16,28 @@
     </header>
     <section id="main" class="container main">
         <h1>kochfokus.de Social Links</h1>
-        <ul class="social-links">
-            <li><a href="https://img.kfcdn.de/other/docs/instagram-privacy.html">Datenschutzerklärung Instagram</a></li>
-            <li><a href="https://kochfokus.de/">Webseite</a></li>
-            <li><a href="https://www.youtube.com/user/kochfokusTV/">YouTube</a></li>
-            <li><a href="https://www.facebook.com/kochfokusDE/">Facebook</a></li>
-            <li><a href="https://twitter.com/kochfokusDE/">Twitter</a></li>
-            <li><a href="https://plus.google.com/+kochfokusDE/">Google+</a></li>
-            <li><a href="https://instagram.com/kochfokus.de/">Instagram</a></li>
-            <li><a href="https://www.pinterest.com/kochfokus/">Pinterest</a></li>
-            <li><a href="https://flipboard.com/@kochfokusde/">Flipboard</a></li>
-        </ul>
+        <ul id="social-links" class="social-links"></ul>
     </section>
 </div>
+
+<script src="/links.js"></script>
+<script>
+window.onload = function() {
+    if(LINKS.length < 1) document.getElementById("main").textContent = "Keine Links vorhanden.";
+    else {
+        var ul = document.getElementById("social-links");
+
+        LINKS.forEach(function(link) {
+            var li = document.createElement("li");
+            var a = document.createElement("a");
+            a.innerText = link[0];
+            a.href = link[1];
+
+            li.appendChild(a);
+            ul.appendChild(li);
+        });
+    }
+}
+</script>
 </body>
 </html>
