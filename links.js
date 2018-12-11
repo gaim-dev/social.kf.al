@@ -1,5 +1,5 @@
 const LINKS = [
-	['Weihnachtliche Müslimuffins', 'https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/'],
+	['DIY Karamellschokolade mit Erdnüssen', 'https://kochfokus.de/artikel/diy-karamellschokolade-mit-erdnuessen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
