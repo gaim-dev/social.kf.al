@@ -1,5 +1,5 @@
 const LINKS = [
-	['DIY Karamellschokolade mit Erdnüssen', 'https://kochfokus.de/artikel/diy-karamellschokolade-mit-erdnuessen/'],
+	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
