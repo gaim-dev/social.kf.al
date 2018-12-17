@@ -1,5 +1,5 @@
 const LINKS = [
-	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
+	['Bethmännchen', 'https://kochfokus.de/artikel/bethmaennchen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
