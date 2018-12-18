@@ -1,5 +1,5 @@
 const LINKS = [
-	['Bethmännchen', 'https://kochfokus.de/artikel/bethmaennchen/'],
+	['Der beste Christstollen mit Marzipan und Cranberries', 'https://kochfokus.de/artikel/der-beste-christstollen-mit-marzipan-und-cranberries/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
