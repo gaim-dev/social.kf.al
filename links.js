@@ -1,5 +1,5 @@
 const LINKS = [
-	['Der beste Christstollen mit Marzipan und Cranberries', 'https://kochfokus.de/artikel/der-beste-christstollen-mit-marzipan-und-cranberries/'],
+	['No Knead Weihnachtsbrot - ideal für Hefeteiganfänger', 'https://kochfokus.de/artikel/no-knead-weihnachtsbrot-ideal-fuer-hefeteiganfaenger/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
