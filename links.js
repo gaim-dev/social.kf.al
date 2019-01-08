@@ -1,5 +1,5 @@
 const LINKS = [
-	['No Knead Weihnachtsbrot - ideal für Hefeteiganfänger', 'https://kochfokus.de/artikel/no-knead-weihnachtsbrot-ideal-fuer-hefeteiganfaenger/'],
+	['Die 5 Top Food Trends für 2019', 'https://kochfokus.de/artikel/die-top-food-trends-fuer-2019/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
