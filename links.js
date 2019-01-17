@@ -1,5 +1,5 @@
 const LINKS = [
-	['Die 5 Top Food Trends für 2019', 'https://kochfokus.de/artikel/die-top-food-trends-fuer-2019/'],
+	['7 Tipps, damit Du Deine guten Vorsätze einhältst', 'https://kochfokus.de/artikel/7-tipps-damit-du-deine-guten-vorsaetze-einhaeltst/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
