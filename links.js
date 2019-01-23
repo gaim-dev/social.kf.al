@@ -1,5 +1,5 @@
 const LINKS = [
-	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
+	['Cremige Liebesapfelsuppe ', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
