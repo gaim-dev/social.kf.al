@@ -1,5 +1,5 @@
 const LINKS = [
-	['7 Tipps, damit Du Deine guten Vorsätze einhältst', 'https://kochfokus.de/artikel/7-tipps-damit-du-deine-guten-vorsaetze-einhaeltst/'],
+	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
