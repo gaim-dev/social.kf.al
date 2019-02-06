@@ -1,5 +1,5 @@
 const LINKS = [
-	['Cremige Liebesapfelsuppe ', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
+	['Super leckerer Chiapudding mit Himbeerpüree und Schokoladencreme', 'https://kochfokus.de/artikel/super-leckerer-chiapudding-mit-himbeerpueree-und-schokoladencreme/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
