@@ -1,5 +1,5 @@
 const LINKS = [
-	['Heidelbeer Rosenkuchen - eine süße Versuchung', 'https://kochfokus.de/artikel/heidelbeer-rosenkuchen-eine-su-e-ss-e-versuchung/'],
+	['Gabis Frittata mit Zucchini und Tomaten', 'https://kochfokus.de/artikel/gabis-frittata-mit-zucchini-und-tomaten/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
