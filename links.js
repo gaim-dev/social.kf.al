@@ -1,5 +1,5 @@
 const LINKS = [
-	['Gabis Frittata mit Zucchini und Tomaten', 'https://kochfokus.de/artikel/gabis-frittata-mit-zucchini-und-tomaten/'],
+	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
