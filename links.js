@@ -1,5 +1,5 @@
 const LINKS = [
-	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
+	['Dieser Schokoladenbananenkuchen rockt!', 'https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
