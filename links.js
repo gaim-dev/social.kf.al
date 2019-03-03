@@ -1,5 +1,5 @@
 const LINKS = [
-	['Dieser Schokoladenbananenkuchen rockt!', 'https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
+	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
