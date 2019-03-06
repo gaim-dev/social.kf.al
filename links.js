@@ -1,5 +1,5 @@
 const LINKS = [
-	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
+	['Rezept sehr saftiges Gemüsebrot mit Chia Samen', 'https://kochfokus.de/artikel/rezept-sehr-saftiges-gemuesebrot-mit-chia-samen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
