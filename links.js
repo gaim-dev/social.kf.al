@@ -1,5 +1,5 @@
 const LINKS = [
-	['Rezept sehr saftiges Gemüsebrot mit Chia Samen', 'https://kochfokus.de/artikel/rezept-sehr-saftiges-gemuesebrot-mit-chia-samen/'],
+	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
