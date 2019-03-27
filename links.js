@@ -1,5 +1,5 @@
 const LINKS = [
-	['Panna Cotta con Amaretto', 'https://kochfokus.de/artikel/panna-cotta-con-amaretto/'],
+	['Gesunder Frühstücksmuffin in der Tasse', 'https://kochfokus.de/artikel/gesunder-fruehstuecksmuffin-in-der-tasse/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
