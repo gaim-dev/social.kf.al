@@ -1,5 +1,5 @@
 const LINKS = [
-	['Gesunder Frühstücksmuffin in der Tasse', 'https://kochfokus.de/artikel/gesunder-fruehstuecksmuffin-in-der-tasse/'],
+	['Pestomuffins - presto presto', 'https://kochfokus.de/artikel/pestomuffins-presto-presto/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
