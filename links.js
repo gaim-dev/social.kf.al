@@ -1,5 +1,5 @@
 const LINKS = [
-	['Pestomuffins - presto presto', 'https://kochfokus.de/artikel/pestomuffins-presto-presto/'],
+	['Green Day Smoothie', 'https://kochfokus.de/artikel/green-day-smoothie/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
