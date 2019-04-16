@@ -1,5 +1,5 @@
 const LINKS = [
-	['Green Day Smoothie', 'https://kochfokus.de/artikel/green-day-smoothie/'],
+	['Gabis Frittata mit Zucchini und Tomaten', 'https://kochfokus.de/artikel/gabis-frittata-mit-zucchini-und-tomaten/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
