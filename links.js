@@ -1,5 +1,5 @@
 const LINKS = [
-	['Delikates Tomaten & Oregano No Knead Bread, 'https://kochfokus.de/artikel/delikates-tomaten-oregano-no-knead-bread/'],
+	['Delikates Tomaten & Oregano No Knead Bread', 'https://kochfokus.de/artikel/delikates-tomaten-oregano-no-knead-bread/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
