@@ -1,5 +1,5 @@
 const LINKS = [
-	['Rhabarber Chutney - so schmeckt der Frühlling!', 'https://kochfokus.de/artikel/rhabarber-chutney-so-schmeckt-der-fruehling/'],
+	['Blaubeer Kokos Gugelhupf Rezept | kochfokus.de', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
