@@ -1,5 +1,5 @@
 const LINKS = [
-	['Blaubeer Kokos Gugelhupf Rezept | kochfokus.de', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
+	['Sommerlicher Beerenkuchen vom Blech', 'https://kochfokus.de/artikel/sommerlicher-beerenkuchen-vom-blech/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
