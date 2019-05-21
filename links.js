@@ -1,5 +1,5 @@
 const LINKS = [
-	['Sommerlicher Beerenkuchen vom Blech', 'https://kochfokus.de/artikel/sommerlicher-beerenkuchen-vom-blech/'],
+	['Gesunder, fruchtiger Krautsalat zum Selbermachen', 'https://kochfokus.de/artikel/gesunder-fruchtiger-krautsalat-zum-selbermachen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
