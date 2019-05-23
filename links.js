@@ -1,5 +1,5 @@
 const LINKS = [
-	['Gesunder, fruchtiger Krautsalat zum Selbermachen', 'https://kochfokus.de/artikel/gesunder-fruchtiger-krautsalat-zum-selbermachen/'],
+	['Herrlich erfrischender Sommersalat mit Melonen', 'https://kochfokus.de/artikel/herrlich-erfrischendender-sommersalat-mit-melonen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
