@@ -1,5 +1,5 @@
 const LINKS = [
-	['Avocado Zitronenmuffins mit Schokoladenstücken', 'https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
+	['Blaubeer-Kefir-Eis ohne Eismaschine', 'https://kochfokus.de/artikel/blaubeer-kefir-eis-ohne-eismaschine/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
