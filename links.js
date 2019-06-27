@@ -9,3 +9,4 @@ const LINKS = [
 	['Instagram', 'https://instagram.com/kochfokus.de/'],
 	['Pinterest', 'https://www.pinterest.com/kochfokus/'],
 	['Flipboard', 'https://flipboard.com/@kochfokusde/'],
+];
