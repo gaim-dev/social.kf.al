@@ -8,4 +8,4 @@ const LINKS = [
 	['Google+', 'https://plus.google.com/+kochfokusDE/'],
 	['Instagram', 'https://instagram.com/kochfokus.de/'],
 	['Pinterest', 'https://www.pinterest.com/kochfokus/'],
-	['Flipboard', 'https://flipboard.com/@kochfokusde/']];
+	['Flipboard', 'https://flipboard.com/@kochfokusde/'],
