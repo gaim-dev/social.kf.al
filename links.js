@@ -1,5 +1,5 @@
 const LINKS = [
-	['Erdbeermarmelade kochen so geht's - 5 raffinierte Rezepte', 'https://kochfokus.de/artikel/erdbeer-marmelade-kochen-so-gehts-5-raffinierte-rezepte/'],
+	['Erdbeermarmelade kochen so geht's', 'https://kochfokus.de/artikel/erdbeer-marmelade-kochen-so-gehts-5-raffinierte-rezepte/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
@@ -8,5 +8,4 @@ const LINKS = [
 	['Google+', 'https://plus.google.com/+kochfokusDE/'],
 	['Instagram', 'https://instagram.com/kochfokus.de/'],
 	['Pinterest', 'https://www.pinterest.com/kochfokus/'],
-	['Flipboard', 'https://flipboard.com/@kochfokusde/']
-];
+	['Flipboard', 'https://flipboard.com/@kochfokusde/']];
