@@ -1,5 +1,5 @@
 const LINKS = [
-	['Blaubeer-Kefir-Eis ohne Eismaschine', 'https://kochfokus.de/artikel/blaubeer-kefir-eis-ohne-eismaschine/'],
+	['Erdbeermarmelade kochen so geht's - 5 raffinierte Rezepte', 'https://kochfokus.de/artikel/erdbeer-marmelade-kochen-so-gehts-5-raffinierte-rezepte/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
