@@ -1,5 +1,5 @@
 const LINKS = [
-	['Erdbeermarmelade kochen so geht's', 'https://kochfokus.de/artikel/erdbeer-marmelade-kochen-so-gehts-5-raffinierte-rezepte/'],
+	['Erdbeermarmelade kochen so gehts', 'https://kochfokus.de/artikel/erdbeer-marmelade-kochen-so-gehts-5-raffinierte-rezepte/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
