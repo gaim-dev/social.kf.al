@@ -1,5 +1,5 @@
 const LINKS = [
-	['Leckere Schokoladenfrühstückmuffins mit Brombeeren', 'https://kochfokus.de/artikel/leckere-schokoladenfruehstuecksmuffins-mit-brombeeren/'],
+	['Erdbeeren Sommerdessert | ideal zum Picknicken', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
