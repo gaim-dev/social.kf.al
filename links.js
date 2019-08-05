@@ -1,5 +1,5 @@
 const LINKS = [
-	['Green Day Smoothie', 'https://kochfokus.de/artikel/green-day-smoothie/'],
+	['Rezept Sommerlicher Kuchen ohne Backen', 'https://kochfokus.de/artikel/rezept-sommerlicher-kuchen-ohne-backen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
