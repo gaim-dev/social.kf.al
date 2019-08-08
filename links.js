@@ -1,5 +1,5 @@
 const LINKS = [
-	['Rezept Sommerlicher Kuchen ohne Backen', 'https://kochfokus.de/artikel/rezept-sommerlicher-kuchen-ohne-backen/'],
+	['Erdbeerkonfitüre mit Aroniabeeren und Nektarinen', 'https://kochfokus.de/artikel/erbeerkonfituere-mit-aroniabeeren-und-nektarinen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
