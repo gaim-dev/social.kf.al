@@ -1,5 +1,5 @@
 const LINKS = [
-	['Erdbeerkonfitüre mit Aroniabeeren und Nektarinen', 'https://kochfokus.de/artikel/erbeerkonfituere-mit-aroniabeeren-und-nektarinen/'],
+	['Heidelbeer Rosenkuchen - eine süße Versuchung', 'https://kochfokus.de/artikel/heidelbeer-rosenkuchen-eine-su-e-ss-e-versuchung/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
