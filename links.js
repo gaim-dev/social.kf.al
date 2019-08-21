@@ -1,5 +1,5 @@
 const LINKS = [
-	['Gelingsichere Frühstücksmuffins mit Cranberries', 'https://kochfokus.de/artikel/fruehstuecksmuffins-mit-cranberries/'],
+	['Schokoladen Protein Porridge mit Müsli', 'https://kochfokus.de/artikel/schokoladen-protein-porridge-mit-muesli/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
