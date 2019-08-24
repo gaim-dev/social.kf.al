@@ -1,5 +1,5 @@
 const LINKS = [
-	['Schokoladen Protein Porridge mit Müsli', 'https://kochfokus.de/artikel/schokoladen-protein-porridge-mit-muesli/'],
+	['Pflaumenmus aus dem Backofen | ganz einfaches Rezept', 'https://kochfokus.de/artikel/pflaumenmus-aus-dem-backofen-ganz-einfaches-rezept/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
