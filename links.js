@@ -1,5 +1,5 @@
 const LINKS = [
-	['Pflaumenmus aus dem Backofen | ganz einfaches Rezept', 'https://kochfokus.de/artikel/pflaumenmus-aus-dem-backofen-ganz-einfaches-rezept/'],
+	['Herrlich erfrischender Sommersalat mit Melonen', 'https://kochfokus.de/artikel/herrlich-erfrischendender-sommersalat-mit-melonen/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
