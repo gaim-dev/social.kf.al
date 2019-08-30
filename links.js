@@ -1,5 +1,5 @@
 const LINKS = [
-	['Herrlich erfrischender Sommersalat mit Melonen', 'https://kochfokus.de/artikel/herrlich-erfrischendender-sommersalat-mit-melonen/'],
+	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
