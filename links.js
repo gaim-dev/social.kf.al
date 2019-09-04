@@ -1,5 +1,5 @@
 const LINKS = [
-	['Erdbeeren Sommerdessert | ideal zum Picknicken', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
+	['Bananenbrot mit Nektarinen | Ein Brot, das begeistert', 'https://kochfokus.de/artikel/bananenbrot-mit-nektarinen-ein-brot-das-begeistert/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
