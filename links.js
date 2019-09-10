@@ -1,5 +1,5 @@
 const LINKS = [
-	['Bananenbrot mit Nektarinen | Ein Brot, das begeistert', 'https://kochfokus.de/artikel/bananenbrot-mit-nektarinen-ein-brot-das-begeistert/'],
+	['https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
