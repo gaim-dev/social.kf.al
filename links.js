@@ -1,5 +1,5 @@
 const LINKS = [
-	['https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
+	['Süße Schupfnudelpfanne', 'https://kochfokus.de/artikel/suesse-schupfnudelpfanne/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
