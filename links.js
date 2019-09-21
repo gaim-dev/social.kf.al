@@ -1,5 +1,5 @@
 const LINKS = [
-	['Süße Schupfnudelpfanne', 'https://kochfokus.de/artikel/suesse-schupfnudelpfanne/'],
+	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker', 'https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
