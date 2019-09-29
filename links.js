@@ -1,5 +1,5 @@
 const LINKS = [
-	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker', 'https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
+	['Dieser Schokoladenbananenkuchen rockt!', 'https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
