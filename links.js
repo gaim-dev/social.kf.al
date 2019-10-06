@@ -1,7 +1,7 @@
 const LINKS = [
 	['Rezept Hokkaido Kürbissuppe | einfach und gut', 'https://kochfokus.de/artikel/hokkaido-kuerbis-suppe/'],
 	['Dieser Schokoladenbananenkuchen rockt!', 'https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
-	['Google+', 'https://plus.google.com/+kochfokusDE/'],
+	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker', 'https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
