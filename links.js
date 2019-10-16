@@ -1,8 +1,8 @@
 const LINKS = [
+	['Haferflockenbrot mit knuspriger Kruste und fluffiger Krume', 'https://kochfokus.de/artikel/haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume/'],
 	['Frühstückskuchen', 'https://kochfokus.de/artikel/fruehstuecks-kuchen/'],
 	['Rezept Hokkaido Kürbissuppe | einfach und gut', 'https://kochfokus.de/artikel/hokkaido-kuerbis-suppe/'],
 	['Dieser Schokoladenbananenkuchen rockt!', 'https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
-	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker', 'https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
