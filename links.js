@@ -1,4 +1,5 @@
 const LINKS = [
+	['Herbstliches Knäckebrot', 'https://kochfokus.de/artikel/herbstliches-knaeckebrot/'],
 	['Gelingsichere Frühstücksmuffins mit Cranberries', 'https://kochfokus.de/artikel/fruehstuecksmuffins-mit-cranberries/'],
 	['Haferflockenbrot mit knuspriger Kruste und fluffiger Krume', 'https://kochfokus.de/artikel/haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume/'],
 	['Frühstückskuchen', 'https://kochfokus.de/artikel/fruehstuecks-kuchen/'],
