@@ -1,9 +1,9 @@
 const LINKS = [
+	['Rezept Low Carb Schokoladenkekse', 'https://kochfokus.de/artikel/rezept-low-carb-schokoladenkekse/'],
 	['Herbstliches Knäckebrot', 'https://kochfokus.de/artikel/herbstliches-knaeckebrot/'],
 	['Gelingsichere Frühstücksmuffins mit Cranberries', 'https://kochfokus.de/artikel/fruehstuecksmuffins-mit-cranberries/'],
 	['Haferflockenbrot mit knuspriger Kruste und fluffiger Krume', 'https://kochfokus.de/artikel/haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume/'],
 	['Frühstückskuchen', 'https://kochfokus.de/artikel/fruehstuecks-kuchen/'],
-	['Rezept Hokkaido Kürbissuppe | einfach und gut', 'https://kochfokus.de/artikel/hokkaido-kuerbis-suppe/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
