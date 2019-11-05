@@ -1,4 +1,4 @@
-const LINKS = [,
+const LINKS = [;
 	['Zitronenkuchen mit Mohn', 'https://kochfokus.de/artikel/zitronenkuchen-mit-mohn-einfach-lecker-und-fluffig/'],
 	['Rezept Low Carb Schokoladenkekse', 'https://kochfokus.de/artikel/rezept-low-carb-schokoladenkekse/'],
 	['Herbstliches Knäckebrot', 'https://kochfokus.de/artikel/herbstliches-knaeckebrot/'],
