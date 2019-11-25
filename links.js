@@ -1,9 +1,9 @@
 const LINKS = [
+	['Weihnachtliche Müslimuffins', 'https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Der beste Christstollen mit Marzipan und Cranberries', 'https://kochfokus.de/artikel/der-beste-christstollen-mit-marzipan-und-cranberries/'],
 	['Leckere Schokoladenfrühstückmuffins mit Brombeeren', 'https://kochfokus.de/artikel/leckere-schokoladenfruehstuecksmuffins-mit-brombeeren/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
-	['Zitronenkuchen mit Mohn', 'https://kochfokus.de/artikel/zitronenkuchen-mit-mohn-einfach-lecker-und-fluffig/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
