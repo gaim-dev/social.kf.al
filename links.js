@@ -1,4 +1,5 @@
 const LINKS = [
+	['Country Cookies à la Gabi', 'https://kochfokus.de/artikel/country-cookies/'],
 	['Weihnachtliche Müslimuffins', 'https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Der beste Christstollen mit Marzipan und Cranberries', 'https://kochfokus.de/artikel/der-beste-christstollen-mit-marzipan-und-cranberries/'],
