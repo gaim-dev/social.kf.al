@@ -1,4 +1,5 @@
 const LINKS = [
+	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Ein Teig - 3 Arten von Plätzchen', 'https://kochfokus.de/artikel/ein-teig-3-verschiedene-arten-von-plaetzchen-der-weihnachtsbaeckerei/'],
 	['Bethmännchen', 'https://kochfokus.de/artikel/bethmaennchen/'],
 	['No Knead Weihnachtsbrot - ideal für Hefeteiganfänger', 'https://kochfokus.de/artikel/no-knead-weihnachtsbrot-ideal-fuer-hefeteiganfaenger/'],
