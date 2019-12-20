@@ -1,4 +1,5 @@
 const LINKS = [
+	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
 	['Der Bratapfel', 'https://kochfokus.de/artikel/bratapfel/'],
 	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Ein Teig - 3 Arten von Plätzchen', 'https://kochfokus.de/artikel/ein-teig-3-verschiedene-arten-von-plaetzchen-der-weihnachtsbaeckerei/'],
@@ -6,7 +7,6 @@ const LINKS = [
 	['No Knead Weihnachtsbrot - ideal für Hefeteiganfänger', 'https://kochfokus.de/artikel/no-knead-weihnachtsbrot-ideal-fuer-hefeteiganfaenger/'],
 	['Himmlische Johannisbeer Lebkuchenaugen', 'https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/'],
 	['Country Cookies à la Gabi', 'https://kochfokus.de/artikel/country-cookies/'],
-	['Weihnachtliche Müslimuffins', 'https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
