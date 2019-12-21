@@ -1,4 +1,5 @@
 const LINKS = [
+	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
 	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
 	['Der Bratapfel', 'https://kochfokus.de/artikel/bratapfel/'],
 	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
