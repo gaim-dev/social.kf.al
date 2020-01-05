@@ -1,4 +1,5 @@
 const LINKS = [
+	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
 	['Schichtdessert im Glas | Resteverwertung de Luxe', 'https://kochfokus.de/artikel/schichtdessert-im-glas-resteverwertung-de-luxe/'],
 	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
 	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
