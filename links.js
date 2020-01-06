@@ -1,4 +1,5 @@
 const LINKS = [
+	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
 	['Schichtdessert im Glas | Resteverwertung de Luxe', 'https://kochfokus.de/artikel/schichtdessert-im-glas-resteverwertung-de-luxe/'],
 	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Ein Teig - 3 Arten von Plätzchen', 'https://kochfokus.de/artikel/ein-teig-3-verschiedene-arten-von-plaetzchen-der-weihnachtsbaeckerei/'],
 	['Bethmännchen', 'https://kochfokus.de/artikel/bethmaennchen/'],
-	['Himmlische Johannisbeer Lebkuchenaugen', 'https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
