@@ -1,4 +1,5 @@
 const LINKS = [
+	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
 	['Schichtdessert im Glas | Resteverwertung de Luxe', 'https://kochfokus.de/artikel/schichtdessert-im-glas-resteverwertung-de-luxe/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Der Bratapfel', 'https://kochfokus.de/artikel/bratapfel/'],
 	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Ein Teig - 3 Arten von Plätzchen', 'https://kochfokus.de/artikel/ein-teig-3-verschiedene-arten-von-plaetzchen-der-weihnachtsbaeckerei/'],
-	['Bethmännchen', 'https://kochfokus.de/artikel/bethmaennchen/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
