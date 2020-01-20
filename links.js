@@ -1,4 +1,5 @@
 const LINKS = [
+	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
 	['Der Bratapfel', 'https://kochfokus.de/artikel/bratapfel/'],
 	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
-	['Ein Teig - 3 Arten von Plätzchen', 'https://kochfokus.de/artikel/ein-teig-3-verschiedene-arten-von-plaetzchen-der-weihnachtsbaeckerei/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
