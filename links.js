@@ -1,4 +1,5 @@
 const LINKS = [
+	['Einfacher Apfelkuchen', 'https://kochfokus.de/artikel/einfacher-apfelkuchen/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
 	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
 	['Der Bratapfel', 'https://kochfokus.de/artikel/bratapfel/'],
-	['Orangen-Marzipan Kuchen', 'https://kochfokus.de/artikel/orangen-marzipan-kuchen/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
