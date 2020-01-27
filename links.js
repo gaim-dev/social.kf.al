@@ -1,4 +1,5 @@
 const LINKS = [
+	['Rezept Walnussbrot', 'https://kochfokus.de/artikel/rezept-walnussbrot/'],
 	['Country Cookies à la Gabi', 'https://kochfokus.de/artikel/country-cookies/'],
 	['Einfacher Apfelkuchen', 'https://kochfokus.de/artikel/einfacher-apfelkuchen/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
 	['Schichtdessert im Glas | Resteverwertung de Luxe', 'https://kochfokus.de/artikel/schichtdessert-im-glas-resteverwertung-de-luxe/'],
 	['Eisbärtatzen', 'https://kochfokus.de/artikel/eisbaertatzen/'],
-	['Köstlicher Schweinerückenbraten mit Chimichurri Gewürz im Römertopf', 'https://kochfokus.de/artikel/koestlicher-schweinerueckenbraten-mit-chimichurri-gewuerz-im-roemertopf/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
