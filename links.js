@@ -1,4 +1,5 @@
 const LINKS = [
+	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
 	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Rezept Walnussbrot', 'https://kochfokus.de/artikel/rezept-walnussbrot/'],
@@ -6,7 +7,6 @@ const LINKS = [
 	['Einfacher Apfelkuchen', 'https://kochfokus.de/artikel/einfacher-apfelkuchen/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
-	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Cranberry Chutney mit Clementinen - so vortrefflich!', 'https://kochfokus.de/artikel/cranberry-chutney-mit-clementinen-so-vortrefflich/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
