@@ -1,5 +1,5 @@
 const LINKS = [
-	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https:https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/],
+	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/],
 	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
