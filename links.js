@@ -1,4 +1,5 @@
 const LINKS = [
+	['Grüne Bohnenpfanne mit Bratwurst - einfach lecker', 'https://kochfokus.de/artikel//gruene-bohnenpfanne-mit-bratwurst-einfach-lecker/'],
 	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
@@ -7,8 +8,6 @@ const LINKS = [
 	['Rezept Walnussbrot', 'https://kochfokus.de/artikel/rezept-walnussbrot/'],
 	['Country Cookies à la Gabi', 'https://kochfokus.de/artikel/country-cookies/'],
 	['Einfacher Apfelkuchen', 'https://kochfokus.de/artikel/einfacher-apfelkuchen/'],
-	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
-	['Cremige Kartoffelsuppe mit Safran veredelt', 'https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
