@@ -1,5 +1,4 @@
 const LINKS = [
-	['Grüne Bohnenpfanne mit Bratwurst - einfach lecker', 'https://kochfokus.de/artikel//gruene-bohnenpfanne-mit-bratwurst-einfach-lecker/'],
 	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
