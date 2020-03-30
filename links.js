@@ -1,4 +1,5 @@
 const LINKS = [
+	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
 	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
 	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
@@ -6,7 +7,6 @@ const LINKS = [
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
 	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
-	['Rezept Walnussbrot', 'https://kochfokus.de/artikel/rezept-walnussbrot/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
