@@ -1,4 +1,4 @@
-const LINKS = [,
+const LINKS = [
 	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
 	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
