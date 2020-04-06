@@ -1,4 +1,5 @@
 const LINKS = [
+	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
 	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
 	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
@@ -6,7 +7,6 @@ const LINKS = [
 	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
-	['Haferflockenpancakes mit Kokosmehl und Cranberries', 'https://kochfokus.de/artikel/kokospancakes-mit-cranberries-so-gut/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
