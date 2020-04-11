@@ -1,4 +1,5 @@
 const LINKS = [
+	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
 	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
 	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
