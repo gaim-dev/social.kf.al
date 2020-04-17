@@ -1,4 +1,5 @@
 const LINKS = [
+	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
 	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
 	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
@@ -7,7 +8,6 @@ const LINKS = [
 	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Knoblauch Rosmarin Baguette | Super Einfaches Rezept', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
-	['Cremige Liebesapfelsuppe', 'https://kochfokus.de/artikel/cremige-liebesapfelsuppe/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
