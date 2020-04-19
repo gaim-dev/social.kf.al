@@ -1,4 +1,5 @@
 const LINKS = [
+	['Rhabarber: 5 Fakten, die Du unbedingt kennen solltest','https://kochfokus.de/artikel/rhabarber-5-fakten-die-du-unbedingt-kennen-solltest/'],
 	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
 	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
