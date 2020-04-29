@@ -1,4 +1,5 @@
 const LINKS = [
+	['Spargelsalat','https://kochfokus.de/artikel/spargelsalat-orangen-balsamico-dressing/'],
 	['Dutch Baby','https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['Rhabarber: 5 Fakten, die Du unbedingt kennen solltest','https://kochfokus.de/artikel/rhabarber-5-fakten-die-du-unbedingt-kennen-solltest/'],
 	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
@@ -8,7 +9,6 @@ const LINKS = [
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
 	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
 	['Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen', 'https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
-	['So backst Du das perfekte Kartoffelbrot nach Focaccia Art', 'https://kochfokus.de/artikel/so-backst-du-das-perfekte-kartoffelbrot-nach-focaccia-art/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
