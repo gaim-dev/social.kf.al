@@ -1,4 +1,5 @@
 const LINKS = [
+	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
 	['Spargelsalat','https://kochfokus.de/artikel/spargelsalat-orangen-balsamico-dressing/'],
 	['Dutch Baby','https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['Rhabarber: 5 Fakten, die Du unbedingt kennen solltest','https://kochfokus.de/artikel/rhabarber-5-fakten-die-du-unbedingt-kennen-solltest/'],
