@@ -1,4 +1,5 @@
 const LINKS = [
+	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
 	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
 	['Spargelsalat','https://kochfokus.de/artikel/spargelsalat-orangen-balsamico-dressing/'],
@@ -9,7 +10,6 @@ const LINKS = [
 	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
 	['Good Morning Boost','https://kochfokus.de/artikel/overnight-oat-fruechstueck/'],
 	['Leichte Kürbiswölkchen','https://kochfokus.de/artikel/leichte-k-ue-rbisw-oe-lkchen/'],
-	['Superfoodbrötchen', 'https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
