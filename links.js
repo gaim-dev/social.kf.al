@@ -1,5 +1,5 @@
 const LINKS = [
-	['Apfelkuchen vom Blech','https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
+	['Rezept Apfelkuchen vom Blech', 'https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
 	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
 	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
