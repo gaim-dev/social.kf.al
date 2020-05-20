@@ -1,4 +1,5 @@
 const LINKS = [
+	['Erdbeeren Sommerdessert', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
 	['Rezept Apfelkuchen vom Blech', 'https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
 	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
