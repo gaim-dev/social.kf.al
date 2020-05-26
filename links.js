@@ -1,4 +1,5 @@
 const LINKS = [
+	['Rhabarber Chutney','https://kochfokus.de/artikel/rhabarber-chutney-so-schmeckt-der-fruehling/'],
 	['Erdbeeren Sommerdessert', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
 	['Rezept Apfelkuchen vom Blech', 'https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
 	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
