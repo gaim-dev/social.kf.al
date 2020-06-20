@@ -1,5 +1,5 @@
 const LINKS = [
-	['Blaubeer Kokos Gugelhupf Rezept', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
+	['Blaubeer Kokos Gugelhupf', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
 	['Knoblauch Rosmarin Baguette', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Rhabarber Chutney', 'https://kochfokus.de/artikel/rhabarber-chutney-so-schmeckt-der-fruehling/'],
 	['Erdbeeren Sommerdessert', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
