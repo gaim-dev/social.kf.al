@@ -1,4 +1,5 @@
 const LINKS = [
+	['Blaubeer Kokos Gugelhupf Rezept', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
 	['Knoblauch Rosmarin Baguette', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Rhabarber Chutney', 'https://kochfokus.de/artikel/rhabarber-chutney-so-schmeckt-der-fruehling/'],
 	['Erdbeeren Sommerdessert', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
@@ -11,7 +12,6 @@ const LINKS = [
 	['Rhabarber: 5 Fakten, die Du unbedingt kennen solltest','https://kochfokus.de/artikel/rhabarber-5-fakten-die-du-unbedingt-kennen-solltest/'],
 	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
-	['Gesunder Heidelbeer Schichtjoghurt Snack', 'https://kochfokus.de/artikel/gesunder-heidelbeer-schicht-joghurt-snack/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
