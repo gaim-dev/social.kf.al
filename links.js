@@ -1,4 +1,5 @@
 const LINKS = [
+	['Fitfood Körniger Käse mit Sauerkirschen und Banane', 'https://kochfokus.de/artikel/fitfood-koerniger-kase-mit-sauerkirschen-und-banane/'],
 	['Blaubeer Kokos Gugelhupf', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
 	['Knoblauch Rosmarin Baguette', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
 	['Rhabarber Chutney', 'https://kochfokus.de/artikel/rhabarber-chutney-so-schmeckt-der-fruehling/'],
