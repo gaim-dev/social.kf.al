@@ -1,4 +1,5 @@
 const LINKS = [
+	['Lavendel-Orangenmuffins', 'https://kochfokus.de/artikel/lavendel-orangenmuffins/'],
 	['Fitfood Körniger Käse mit Sauerkirschen und Banane', 'https://kochfokus.de/artikel/fitfood-koerniger-kase-mit-sauerkirschen-und-banane/'],
 	['Blaubeer Kokos Gugelhupf', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
 	['Knoblauch Rosmarin Baguette', 'https://kochfokus.de/artikel/knoblauch-rosmarin-baguette-super-einfaches-rezept/'],
@@ -10,7 +11,6 @@ const LINKS = [
 	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
 	['Spargelsalat','https://kochfokus.de/artikel/spargelsalat-orangen-balsamico-dressing/'],
 	['Dutch Baby','https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
-	['Rhabarber: 5 Fakten, die Du unbedingt kennen solltest','https://kochfokus.de/artikel/rhabarber-5-fakten-die-du-unbedingt-kennen-solltest/'],
 	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
