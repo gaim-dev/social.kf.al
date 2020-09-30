@@ -9,7 +9,6 @@ const LINKS = [
 	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
 	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
-	['Spargelsalat','https://kochfokus.de/artikel/spargelsalat-orangen-balsamico-dressing/'],
 	['Dutch Baby','https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
 	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Aprikosen-Brioche mit Rosmarin','https://kochfokus.de/artikel/aprikosen-brioche-mit-rosmarin/'],
