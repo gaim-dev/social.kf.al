@@ -1,4 +1,5 @@
 const LINKS = [
+	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Delikates Tomaten & Oregano No Knead Bread', 'https://kochfokus.de/artikel/delikates-tomaten-oregano-no-knead-bread/'],
 	['Fitfood Körniger Käse mit Sauerkirschen und Banane', 'https://kochfokus.de/artikel/fitfood-koerniger-kase-mit-sauerkirschen-und-banane/'],
 	['Blaubeer Kokos Gugelhupf', 'https://kochfokus.de/artikel/blaubeer-kokos-gugelhupf-rezept-kochfokus-de/'],
