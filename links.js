@@ -19,7 +19,5 @@ const LINKS = [
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
 	['Facebook', 'https://www.facebook.com/kochfokusDE/'],
 	['Twitter', 'https://twitter.com/kochfokusDE/'],
-	['Instagram', 'https://instagram.com/kochfokus.de/'],
 	['Pinterest', 'https://www.pinterest.com/kochfokus/'],
-	['Flipboard', 'https://flipboard.com/@kochfokusde/'],
 ];
