@@ -1,4 +1,5 @@
 const LINKS = [
+	['Süße Spinnen für Halloween','https://kochfokus.de/artikel/suesse-spinnen-fuer-halloween/'],
 	['Rezept Walnussbrot','https://kochfokus.de/artikel/rezept-walnussbrot/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
 	['Delikates Tomaten & Oregano No Knead Bread', 'https://kochfokus.de/artikel/delikates-tomaten-oregano-no-knead-bread/'],
@@ -12,7 +13,6 @@ const LINKS = [
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
 	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
 	['Dutch Baby','https://kochfokus.de/artikel/dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen/'],
-	['Schokoladenbananenkuchen','https://kochfokus.de/artikel/dieser-schokoladen-bananenkuchen-rockt-kochfokus-de/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
