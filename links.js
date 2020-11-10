@@ -1,4 +1,5 @@
 const LINKS = [
+	['Country Cookies à la Gabi','https://kochfokus.de/artikel/country-cookies/'],
 	['Süße Spinnen für Halloween','https://kochfokus.de/artikel/suesse-spinnen-fuer-halloween/'],
 	['Rezept Walnussbrot','https://kochfokus.de/artikel/rezept-walnussbrot/'],
 	['Spaghettipfanne mit Hähnchen an mediterranem Gemüse', 'https://kochfokus.de/artikel/spaghettipfanne-mit-haehnchen-an-mediterranem-gemuese/'],
