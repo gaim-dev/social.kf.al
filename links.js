@@ -1,4 +1,5 @@
 const LINKS = [
+	['Cremige Kartoffelsuppe mit Safran veredelt','https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker','https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
 	['Country Cookies à la Gabi','https://kochfokus.de/artikel/country-cookies/'],
 	['Süße Spinnen für Halloween','https://kochfokus.de/artikel/suesse-spinnen-fuer-halloween/'],
@@ -13,7 +14,6 @@ const LINKS = [
 	['Rezept Apfelkuchen vom Blech', 'https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
 	['Babka Rezept - so einfach & lecker','https://kochfokus.de/artikel/babka-rezept-einfach-lecker/'],
 	['Kastenbrot mit Chia Samen','https://kochfokus.de/artikel/super-fruchtiges-kastenbrot-mit-chia-samen/'],
-	['Avocado Zitronenmuffins mit Schokoladenstücken','https://kochfokus.de/artikel/avocado-zitronenmuffins-mit-schokoladenstuecken/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
 	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
