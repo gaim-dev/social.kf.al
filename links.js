@@ -1,5 +1,5 @@
 const LINKS = [
-	['Eisbärtatzenn','https://kochfokus.de/artikel/eisbaertatzen/'],
+	['Eisbärtatzen','https://kochfokus.de/artikel/eisbaertatzen/'],
 	['Cremige Kartoffelsuppe mit Safran veredelt','https://kochfokus.de/artikel/cremige-kartoffelsuppe-mit-safran-veredelt/'],
 	['Apfel-Haselnuss-Kürbiskuchen | himmlisch lecker','https://kochfokus.de/artikel/apfel-haselnuss-kuerbiskuchen-himmlisch-lecker/'],
 	['Country Cookies à la Gabi','https://kochfokus.de/artikel/country-cookies/'],
