@@ -15,7 +15,6 @@ const LINKS = [
 	['Erdbeeren Sommerdessert', 'https://kochfokus.de/artikel/erdbeeren-sommerdessert-ideal-zum-picknicken/'],
 	['Rezept Apfelkuchen vom Blech', 'https://kochfokus.de/artikel/raffinierter-apfelkuchen-vom-blech/'],
 	['Hallo! Ich bin Gabi', 'https://kochfokus.de/about-me/'],
-	['Datenschutzerklärung Instagram', 'https://img.kfcdn.de/other/docs/instagram-privacy.html'],
 	['Webseite', 'https://kochfokus.de'],
 	['YouTube', 'https://www.youtube.com/user/kochfokusTV/'],
 	['Facebook', 'https://www.facebook.com/kochfokusDE/'],
