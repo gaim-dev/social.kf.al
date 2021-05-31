@@ -16,9 +16,6 @@ out/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
-## Hugo
-public/
-
 ### Linux ###
 *~
 

@@ -1,0 +1,20 @@
+version: 2.1
+
+jobs:
+  deploy:
+    docker:
+      - image: cimg/node:14.17
+    steps:
+      - checkout
+      - run:
+          command: |
+            sudo npm i -g dattel-client
+            dattel deploy
+
+workflows:
+  deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master
